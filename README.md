@@ -1,2 +1,2 @@
 # sim-phi-2.0
-removed from github
+项目已迁移。
